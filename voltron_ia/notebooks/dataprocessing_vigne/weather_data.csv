@@ -1,0 +1,31 @@
+Collection ID,Collection Name,Created,Date,Disease,Domain,Humidity,ID,Insect,Temperature,Updated
+c5m2zwug995txek,weather,2023-07-10 19:41:32.828Z,2013-07-10 00:00:00.000Z,False,Bergerac,62,qwpyk4vc37n3nxo,True,32,2023-07-10 19:41:32.828Z
+c5m2zwug995txek,weather,2023-07-10 19:41:32.876Z,2013-07-11 00:00:00.000Z,False,Angers,63,07e2z5mjrobu92a,False,31,2023-07-10 19:41:32.876Z
+c5m2zwug995txek,weather,2023-07-10 19:41:32.920Z,2013-07-12 00:00:00.000Z,False,Toulon,62,xfqlqlwuo1pkcgy,True,31,2023-07-10 19:41:32.920Z
+c5m2zwug995txek,weather,2023-07-10 19:41:32.967Z,2013-07-13 00:00:00.000Z,False,Provence,63,sddmkfbfpkp5dtd,False,36,2023-07-10 19:41:32.967Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.014Z,2013-07-14 00:00:00.000Z,False,Bourgogne,60,6hmnbieu1mb0svi,True,34,2023-07-10 19:41:33.014Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.057Z,2013-07-15 00:00:00.000Z,False,Champagne,65,3q7q6yrccrxfpma,True,28,2023-07-10 19:41:33.057Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.100Z,2013-07-16 00:00:00.000Z,False,Bergerac,60,7952f8hwkwuapau,True,25,2023-07-10 19:41:33.100Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.142Z,2013-07-17 00:00:00.000Z,True,Bergerac,65,psvkdglgvkqmonm,False,31,2023-07-10 19:41:33.142Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.189Z,2013-07-18 00:00:00.000Z,True,Champagne,64,7342vk9obkmwr2y,False,34,2023-07-10 19:41:33.189Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.232Z,2013-07-19 00:00:00.000Z,False,Bourgogne,62,ls94887453ozx6x,True,33,2023-07-10 19:41:33.232Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.279Z,2013-07-20 00:00:00.000Z,True,Bourgogne,60,reeqcnf1iuakaqa,False,31,2023-07-10 19:41:33.279Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.322Z,2013-07-21 00:00:00.000Z,False,Provence,65,py2av4h646qt03l,False,35,2023-07-10 19:41:33.322Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.369Z,2013-07-22 00:00:00.000Z,False,Bergerac,62,vdgvi3j6dqnohbo,True,29,2023-07-10 19:41:33.369Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.416Z,2013-07-23 00:00:00.000Z,False,Vallée du Rhône,65,yr33grpatgvx9q8,True,37,2023-07-10 19:41:33.416Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.463Z,2013-07-24 00:00:00.000Z,True,Bordeaux,63,ay3o81m80tb4we9,False,29,2023-07-10 19:41:33.463Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.506Z,2013-07-25 00:00:00.000Z,True,Marseille,62,r3zlcw7otxmt3lo,False,34,2023-07-10 19:41:33.506Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.551Z,2013-07-26 00:00:00.000Z,True,Marseille,61,t5y18tkevbv4xoo,False,31,2023-07-10 19:41:33.551Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.593Z,2013-07-27 00:00:00.000Z,False,Bourgogne,62,sviow9eei63nomu,False,33,2023-07-10 19:41:33.593Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.637Z,2013-07-28 00:00:00.000Z,True,Champagne,65,jcfp4fmc74wdwqa,True,32,2023-07-10 19:41:33.637Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.683Z,2013-07-29 00:00:00.000Z,False,Vallée du Rhône,63,e9n8pprsuv5u6j9,True,31,2023-07-10 19:41:33.683Z
+c5m2zwug995txek,weather,2023-07-10 19:41:33.728Z,2013-07-30 00:00:00.000Z,True,Val de Loire,61,fqi6bx2itq3ywk0,True,37,2023-07-10 19:41:33.728Z
+c5m2zwug995txek,weather,2023-07-10 19:41:34.790Z,2013-07-31 00:00:00.000Z,False,Alsace,62,gp2s38kz0xa9c1e,True,30,2023-07-10 19:41:34.790Z
+c5m2zwug995txek,weather,2023-07-10 19:41:34.835Z,2013-08-01 00:00:00.000Z,True,Marseille,67,fqfpxzp5s0uau9h,False,13,2023-07-10 19:41:34.835Z
+c5m2zwug995txek,weather,2023-07-10 19:41:34.878Z,2013-08-02 00:00:00.000Z,False,Vallée du Rhône,61,abjrjuvgijdaw3q,False,22,2023-07-10 19:41:34.878Z
+c5m2zwug995txek,weather,2023-07-10 19:41:34.922Z,2013-08-03 00:00:00.000Z,True,Marseille,64,dmv7rqjgvrmkdts,False,24,2023-07-10 19:41:34.922Z
+c5m2zwug995txek,weather,2023-07-10 19:41:34.969Z,2013-08-04 00:00:00.000Z,False,Toulon,66,849e1cwba1raau2,False,17,2023-07-10 19:41:34.969Z
+c5m2zwug995txek,weather,2023-07-10 19:41:35.012Z,2013-08-05 00:00:00.000Z,False,Bourgogne,60,towjfk11ohe0gxl,False,12,2023-07-10 19:41:35.012Z
+c5m2zwug995txek,weather,2023-07-10 19:41:35.059Z,2013-08-06 00:00:00.000Z,False,Paris,68,py5zx1lnaf9neew,False,22,2023-07-10 19:41:35.059Z
+c5m2zwug995txek,weather,2023-07-10 19:41:35.104Z,2013-08-07 00:00:00.000Z,True,Bourgogne,66,yfww32ybpadtu3r,False,26,2023-07-10 19:41:35.104Z
+c5m2zwug995txek,weather,2023-07-10 19:41:35.150Z,2013-08-08 00:00:00.000Z,False,Provence,64,2bxqkjpkxkt5e1h,False,14,2023-07-10 19:41:35.150Z

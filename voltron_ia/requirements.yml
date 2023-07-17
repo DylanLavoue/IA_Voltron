@@ -14,3 +14,5 @@ dependencies:
   - pandas
   - tensorflow
   - scikit-learn
+  - xgboost
+  - fbprophet

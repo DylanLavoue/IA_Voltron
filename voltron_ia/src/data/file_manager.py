@@ -199,6 +199,7 @@ class FileManager:
                              self.__dest_file_name(bacteria_dir,
                                                    idx_bacteria))
                 idx_bacteria += 1
+    
 
 
 if __name__ == "__main__":
